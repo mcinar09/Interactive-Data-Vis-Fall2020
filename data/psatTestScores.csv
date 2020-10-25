@@ -1,0 +1,266 @@
+﻿ID,Country,psat_cr,psat_m
+210,Argentina ,40,39
+211,Argentina ,45,47
+212,Argentina ,46,52
+213,Argentina ,41,45
+214,Argentina ,49,50
+215,Argentina ,59,62
+216,Argentina ,51,43
+217,Argentina ,45,49
+218,Argentina ,36,41
+219,Argentina ,56,50
+220,Argentina ,41,43
+221,Argentina ,48,49
+222,Argentina ,48,54
+223,Argentina ,44,41
+224,Argentina ,54,47
+225,Argentina ,38,54
+226,Argentina ,44,47
+227,Argentina ,41,53
+228,Argentina ,41,58
+229,Argentina ,67,64
+230,Argentina ,48,50
+231,Argentina ,40,44
+232,Argentina ,46,54
+233,Argentina ,29,43
+234,Argentina ,32,38
+235,Argentina ,40,41
+236,Argentina ,40,53
+237,Argentina ,30,52
+238,Argentina ,43,45
+239,Argentina ,55,53
+240,Argentina ,51,60
+241,Argentina ,62,72
+242,Argentina ,48,47
+243,Argentina ,34,47
+244,Argentina ,38,48
+245,Argentina ,48,48
+246,Argentina ,35,44
+247,Argentina ,39,49
+248,Argentina ,35,30
+249,Argentina ,35,43
+250,Argentina ,44,45
+251,Argentina ,44,68
+252,Argentina ,42,42
+253,Argentina ,33,36
+254,Argentina ,40,39
+255,Argentina ,48,53
+256,Argentina ,51,54
+257,Argentina ,40,53
+258,Argentina ,48,39
+259,Argentina ,39,53
+260,Argentina ,57,60
+261,Argentina ,44,49
+262,Argentina ,47,33
+263,Argentina ,40,41
+264,Argentina ,39,47
+265,Argentina ,52,45
+266,Argentina ,38,45
+267,Argentina ,41,43
+303,Argentina ,35,36
+304,Argentina ,54,52
+305,Argentina ,59,68
+306,Argentina ,33,45
+307,Argentina ,38,57
+308,Argentina ,38,52
+309,Argentina ,40,37
+310,Argentina ,38,31
+311,Argentina ,41,43
+312,Argentina ,34,39
+313,Argentina ,51,58
+314,Argentina ,47,50
+315,Argentina ,49,49
+316,Argentina ,35,47
+317,Argentina ,40,36
+318,Argentina ,43,50
+319,Argentina ,35,38
+320,Argentina ,55,44
+321,Argentina ,33,34
+322,Argentina ,27,30
+323,Argentina ,40,39
+324,Argentina ,57,60
+325,Argentina ,33,42
+326,Argentina ,45,70
+327,Argentina ,29,62
+328,Argentina ,40,47
+329,Argentina ,34,38
+330,Argentina ,44,52
+331,Argentina ,43,57
+332,Argentina ,55,58
+92,New Zealand ,59,64
+93,New Zealand ,48,21
+94,New Zealand ,60,60
+95,New Zealand ,45,62
+96,New Zealand ,43,52
+97,New Zealand ,48,53
+98,New Zealand ,48,34
+99,New Zealand ,39,50
+100,New Zealand ,53,53
+101,New Zealand ,39,49
+102,New Zealand ,36,48
+103,New Zealand ,54,65
+104,New Zealand ,55,50
+105,New Zealand ,53,39
+106,New Zealand ,59,61
+107,New Zealand ,48,48
+108,New Zealand ,62,54
+109,New Zealand ,69,60
+110,New Zealand ,48,47
+111,New Zealand ,47,52
+112,New Zealand ,49,61
+113,New Zealand ,58,52
+114,New Zealand ,45,48
+115,New Zealand ,46,44
+116,New Zealand ,49,66
+117,New Zealand ,53,62
+118,New Zealand ,58,54
+119,New Zealand ,39,47
+120,New Zealand ,53,48
+121,New Zealand ,56,36
+122,New Zealand ,46,37
+123,New Zealand ,44,50
+124,New Zealand ,55,57
+125,New Zealand ,53,48
+126,New Zealand ,41,52
+127,New Zealand ,54,65
+128,New Zealand ,40,52
+129,New Zealand ,39,49
+130,New Zealand ,34,44
+131,New Zealand ,41,49
+132,New Zealand ,62,53
+133,New Zealand ,51,57
+134,New Zealand ,42,53
+135,New Zealand ,54,58
+136,New Zealand ,64,62
+137,New Zealand ,54,66
+138,New Zealand ,53,60
+160,New Zealand ,54,52
+161,New Zealand ,38,47
+162,New Zealand ,44,41
+163,New Zealand ,53,47
+164,New Zealand ,34,37
+165,New Zealand ,60,60
+166,New Zealand ,44,39
+167,New Zealand ,39,28
+168,New Zealand ,36,39
+169,New Zealand ,45,74
+170,New Zealand ,46,56
+171,New Zealand ,25,54
+172,New Zealand ,48,44
+173,New Zealand ,51,62
+174,New Zealand ,64,49
+268,New Zealand ,33,54
+269,New Zealand ,51,49
+270,New Zealand ,53,52
+271,New Zealand ,49,47
+272,New Zealand ,27,45
+273,New Zealand ,23,62
+274,New Zealand ,44,43
+275,New Zealand ,57,62
+276,New Zealand ,42,20
+277,New Zealand ,58,56
+278,New Zealand ,37,31
+279,New Zealand ,59,68
+280,New Zealand ,54,54
+281,New Zealand ,34,38
+282,New Zealand ,42,45
+11,Zimbabwe ,48,48
+12,Zimbabwe ,38,38
+13,Zimbabwe ,46,50
+14,Zimbabwe ,44,33
+15,Zimbabwe ,64,52
+16,Zimbabwe ,67,62
+17,Zimbabwe ,39,49
+18,Zimbabwe ,38,48
+19,Zimbabwe ,51,60
+20,Zimbabwe ,47,52
+21,Zimbabwe ,45,56
+22,Zimbabwe ,39,43
+23,Zimbabwe ,43,53
+24,Zimbabwe ,47,60
+25,Zimbabwe ,49,44
+26,Zimbabwe ,54,57
+27,Zimbabwe ,51,49
+28,Zimbabwe ,59,60
+29,Zimbabwe ,47,50
+30,Zimbabwe ,67,62
+31,Zimbabwe ,53,53
+32,Zimbabwe ,51,61
+33,Zimbabwe ,35,28
+34,Zimbabwe ,45,49
+35,Zimbabwe ,60,53
+36,Zimbabwe ,58,44
+37,Zimbabwe ,45,43
+38,Zimbabwe ,62,41
+39,Zimbabwe ,52,42
+40,Zimbabwe ,48,47
+41,Zimbabwe ,48,53
+42,Zimbabwe ,39,50
+43,Zimbabwe ,59,62
+44,Zimbabwe ,53,65
+45,Zimbabwe ,41,52
+46,Zimbabwe ,45,53
+47,Zimbabwe ,48,64
+48,Zimbabwe ,45,56
+49,Zimbabwe ,64,62
+50,Zimbabwe ,55,52
+67,Zimbabwe ,49,56
+68,Zimbabwe ,60,56
+69,Zimbabwe ,34,58
+70,Zimbabwe ,54,60
+71,Zimbabwe ,38,38
+72,Zimbabwe ,53,49
+73,Zimbabwe ,43,44
+74,Zimbabwe ,42,48
+75,Zimbabwe ,48,41
+76,Zimbabwe ,42,52
+77,Zimbabwe ,39,37
+78,Zimbabwe ,43,64
+79,Zimbabwe ,49,50
+80,Zimbabwe ,40,45
+81,Zimbabwe ,47,45
+82,Zimbabwe ,46,53
+83,Zimbabwe ,41,48
+84,Zimbabwe ,41,58
+85,Zimbabwe ,41,48
+86,Zimbabwe ,41,49
+87,Zimbabwe ,39,42
+88,Zimbabwe ,27,21
+89,Zimbabwe ,34,37
+90,Zimbabwe ,39,47
+91,Zimbabwe ,40,42
+175,Zimbabwe ,44,37
+176,Zimbabwe ,48,39
+177,Zimbabwe ,71,64
+178,Zimbabwe ,49,61
+179,Zimbabwe ,57,42
+180,Zimbabwe ,51,52
+181,Zimbabwe ,66,60
+182,Zimbabwe ,60,62
+183,Zimbabwe ,53,52
+184,Zimbabwe ,46,56
+185,Zimbabwe ,45,52
+186,Zimbabwe ,64,52
+187,Zimbabwe ,35,30
+188,Zimbabwe ,63,48
+189,Zimbabwe ,62,50
+190,Zimbabwe ,44,49
+191,Zimbabwe ,38,48
+192,Zimbabwe ,40,45
+193,Zimbabwe ,39,44
+194,Zimbabwe ,49,52
+195,Zimbabwe ,44,53
+196,Zimbabwe ,38,42
+197,Zimbabwe ,42,52
+198,Zimbabwe ,44,62
+199,Zimbabwe ,45,49
+283,Zimbabwe ,58,44
+284,Zimbabwe ,44,56
+285,Zimbabwe ,52,44
+286,Zimbabwe ,43,42
+287,Zimbabwe ,58,67
+288,Zimbabwe ,52,50
+289,Zimbabwe ,63,64
+290,Zimbabwe ,51,48
+291,Zimbabwe ,57,66
+292,Zimbabwe ,59,61
