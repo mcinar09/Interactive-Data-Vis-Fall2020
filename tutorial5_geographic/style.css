@@ -1,0 +1,34 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 2em 3em
+  }
+  
+  header {
+    text-align: left;
+    color: Black
+  }
+  
+  div {
+    font-size: medium  
+  }
+  
+  circle {
+    cursor: pointer;
+    fill: Magenta;
+    fill-opacity: 0.5;
+    stroke: white;
+  }
+  circle:hover {
+    fill-opacity: 0.7;
+    stroke: steelblue
+  }
+  
+  path.state {
+    stroke: steelblue;
+    stroke-width: 1;
+  }
+  
+  .state:hover {
+    fill: LavenderBlush
+  }
