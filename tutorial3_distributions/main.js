@@ -104,7 +104,10 @@ function init() {
 
 
   draw(); // calls the draw function
+
 }
+
+
 
 /* DRAW FUNCTION */
 // we call this everytime there is an update to the data/state
@@ -114,11 +117,12 @@ function draw() {
   let filteredData = state.data;
   if (state.selectedCountry !== "All") {
     filteredData = state.data.filter(d => d.Country === state.selectedCountry);
+    console.log(filteredData);
   }
 
   const dot = svg
     .selectAll(".dot")
-    .data(filteredData, d => d.Country)
+    .data(filteredData, d => d.ID)
     .join(
       enter =>
         enter // + HANDLE ENTER SELECTION
@@ -127,8 +131,8 @@ function draw() {
           .attr("stroke", "lightgrey")
           .attr("opacity", 0.5)
           .attr("fill", d => {
-            if (d.Country === "Argentina") return "Blue";
-            else if (d.Country === "New Zealand") return "Red";
+            if (d.Country === "Argentina ") return "DarkBlue";
+            else if (d.Country === "New Zealand ") return "Green";
             else return "Purple";
           })
           .attr("r", radius)
