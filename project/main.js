@@ -22,7 +22,7 @@ let svg, xScale, yScale, yAxis, xAxis;
 /**
  * APPLICATION STATE
  **/
-let state = { data: [], world: [], selectedCountry: null };
+let state = { data: [], selectedCountry: null };
 
 /**
  * LOAD DATA
